@@ -1,0 +1,1 @@
+Full-stack application using NodeJS, Express, and Create-React-App
